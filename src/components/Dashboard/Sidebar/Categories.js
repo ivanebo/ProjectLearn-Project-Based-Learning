@@ -60,12 +60,12 @@ const CategoryWrapper = styled.div`
     }
     .cat-grid {
       display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
       width: 100%;
       justify-items: center;
-      align-content: center;
       text-align: center;
       color: var(--theme-grey);
+      overflow-y: scroll;
     }
     .cat-grid-item {
       font-size: 2.8vw;
@@ -102,6 +102,7 @@ const CategoryWrapper = styled.div`
       font-size: 2.5vh;
     }
   }
+
 `;
 const Categories = (props) => {
   const {

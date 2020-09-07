@@ -1,13 +1,16 @@
-<h1>
-:beginner:<a href="https://projectlearn.io">ProjectLearn</a> - Project Based Learning</h1>
+<h1 align="center">
+  <a href="https://projectlearn.io"><img src="https://i.ibb.co/YycTZq4/Screen-Shot-20200830180734-removebg-preview.png" alt="ProjectLearn"></a>
+</h1>
 
-<p>
-  Website: <a href="https://projectlearn.io">https://projectlearn.io</a></p>
-<p>
-   <a href="https://opencollective.com/projectlearn" alt="Donate">
-        <img src="https://img.shields.io/badge/donate-support%20ProjectLearn-green" /></a>
+<p align="center">
+   <a href="https://github.com/Xtremilicious/projectlearn-project-based-learning/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="ProjectLearn is released under the MIT license." />
+  </a>
     <a href="https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/Xtremilicious/ProjectLearn-Project-Based-Learning" /></a>
+   <a href="https://github.com/Xtremilicious/ProjectLearn-Project-Based-Learning/blob/master/CONTRIBUTE.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+  </a>
     <a href="https://twitter.com/intent/follow?screen_name=ProjectLearn_io">
         <img src="https://img.shields.io/twitter/follow/ProjectLearn_io?style=social&logo=twitter"
             alt="follow on Twitter"></a>
@@ -25,7 +28,7 @@ To contribute to this list, head over to [CONTRIBUTE.md](https://github.com/Xtre
 ### Web Devlopment: 
 | Project | Technologies | Link |
 | :--- |:---|:---|
-| Travel Bucket List Map with Gatsby, React Leaflet, and GraphCMS | Gatsby, Leaflet, GraphCMS, HTML, CSS | [Link](https://projectlearn.io/learn/web-development/project/travel-bucket-list-map-with-gatsby,-react-leaflet,-and-graphcms-168?from=github)|
+| Travel Bucket List Map with Gatsby and GraphCMS | Gatsby, Leaflet, GraphCMS, HTML, CSS | [Link](https://projectlearn.io/learn/web-development/project/travel-bucket-list-map-with-gatsby-and-graphcms-168?from=github)|
 | Memory Card Game with Vue.js | Vue, JavaScript, HTML, CSS | [Link](https://projectlearn.io/learn/web-development/project/memory-card-game-with-vue.js-167?from=github)|
 | Strapi and GatsbyJS Course - Portfolio Project | Strapi, Gatsby, JavaScript, HTML, CSS | [Link](https://projectlearn.io/learn/web-development/project/strapi-and-gatsbyjs-course---portfolio-project-166?from=github)|
 | Storybook - Node, Express, MongoDB and Google OAuth | MongoDB, Node, JavaScript, HTML, CSS | [Link](https://projectlearn.io/learn/web-development/project/storybook---node,-express,-mongodb-and-google-oauth-165?from=github)|
@@ -43,7 +46,7 @@ To contribute to this list, head over to [CONTRIBUTE.md](https://github.com/Xtre
 | Flipping UNO Cards using only CSS | HTML, CSS | [Link](https://projectlearn.io/learn/web-development/project/flipping-uno-cards-using-only-css-151?from=github)|
 | Chat App with Redis, WebSocket and Go | Redis, Web Socket, Go, Azure | [Link](https://projectlearn.io/learn/web-development/project/chat-app-with-redis,-websocket-and-go-146?from=github)|
 | Spotify Login Animation With React Navigation | React, HTML, CSS, JavaScript | [Link](https://projectlearn.io/learn/web-development/project/spotify-login-animation-with-react-navigation-145?from=github)|
-| Dynamic Qeather Interface with just CSS | HTML, CSS | [Link](https://projectlearn.io/learn/web-development/project/dynamic-qeather-interface-with-just-css-144?from=github)|
+| Dynamic Weather Interface with just CSS | HTML, CSS | [Link](https://projectlearn.io/learn/web-development/project/dynamic-weather-interface-with-just-css-144?from=github)|
 | Simple CRUD App with Airtable and Vue | Airtable, Vue, Vuetify, API, HTML | [Link](https://projectlearn.io/learn/web-development/project/simple-crud-app-with-airtable-and-vue-143?from=github)|
 | Full Stack RPG Character Generator with MEVN stack | MongoDB, Express, Vue, Node, HTML | [Link](https://projectlearn.io/learn/web-development/project/full-stack-rpg-character-generator-with-mevn-stack-142?from=github)|
 | Todo App with the PERN stack | PostgreSQL, Express, React, Node, HTML | [Link](https://projectlearn.io/learn/web-development/project/todo-app-with-the-pern-stack-141?from=github)|

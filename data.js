@@ -12,7 +12,7 @@ exports.projectsData = [
   {
     id: 168,
     type: "article",
-    title: "Travel Bucket List Map with Gatsby, React Leaflet, and GraphCMS",
+    title: "Travel Bucket List Map with Gatsby and GraphCMS",
     category: ["web-dev"],
     tech: ["Gatsby", "Leaflet", "GraphCMS", "HTML", "CSS"],
     datePublished: "Jun 23, 2020",
@@ -238,7 +238,7 @@ exports.projectsData = [
   {
     id: 144,
     type: "article",
-    title: "Dynamic Qeather Interface with just CSS",
+    title: "Dynamic Weather Interface with just CSS",
     category: ["web-dev"],
     tech: ["HTML", "CSS"],
     datePublished: "Apr 22, 2020",
